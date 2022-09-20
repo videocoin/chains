@@ -1,0 +1,23 @@
+{
+  "name": "Videocoin Mainnet",
+  "chain": "VID",
+  "rpc": ["https://videocoin.network/rpc/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Videocoin",
+    "symbol": "VID",
+    "decimals": 18
+  },
+  "infoURL": "https://www.vividlabs.com/",
+  "shortName": "vid",
+  "chainId": 95113,
+  "networkId": 95113,
+  "icon": "videocoin",
+  "explorers": [
+    {
+      "name": "videocoin",
+      "url": "https://explorer.videocoin.network",
+      "standard": "EIP3091"
+    }
+  ]
+}
